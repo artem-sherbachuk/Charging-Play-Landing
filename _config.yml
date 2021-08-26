@@ -41,19 +41,19 @@ features                                  :
     
   - title                                 : Add own background from photo library
     description                           : 
-    fontawesome_icon_name                 : photo-video
+    fontawesome_icon_name                 : images
 
   - title                                 : Add own music from music library
     description                           : 
-    fontawesome_icon_name                 : photo-video
+    fontawesome_icon_name                 : music
 
   - title                                 : Select different UI animations
     description                           : 
-    fontawesome_icon_name                 : quidditch
+    fontawesome_icon_name                 : toggle-on
 
   - title                                 : Change UI elements of the charging screen
     description                           : 
-    fontawesome_icon_name                 : uikit
+    fontawesome_icon_name                 : star
   
   - title                                 : Change battery indicator view
     description                           : 
