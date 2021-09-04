@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Amazing Animations Library
     description                           : 
-    fontawesome_icon_name                 : photo-video
+    fontawesome_icon_name                 : images
     
   - title                                 : Add own background from photo library
     description                           : 
