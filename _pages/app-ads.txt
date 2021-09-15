@@ -1,3 +1,9 @@
+---
+layout: page
+title: app-ads.txt
+include_in_header: false
+---
+
 #=== AdMob
 google.com, pub-9752109323987437, DIRECT, f08c47fec0942fa0
 
