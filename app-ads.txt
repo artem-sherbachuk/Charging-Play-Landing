@@ -1,0 +1,5 @@
+#=== AdMob
+google.com, pub-9752109323987437, DIRECT, f08c47fec0942fa0
+
+#=== FacebookAN
+facebook.com, 212746530533069, DIRECT, c3e20eee3f780d68
