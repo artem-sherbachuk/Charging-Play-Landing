@@ -1,1 +1,1 @@
-https://artem-sherbachuk.github.io/Charging-Play-Landing/
+https://artem-sherbachuk.github.io/charging-animation.com
