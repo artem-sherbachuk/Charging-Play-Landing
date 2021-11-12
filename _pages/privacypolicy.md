@@ -1,77 +1,42 @@
 ---
 layout: page
-title: Privacy Policy
+title: Terms of Use
 include_in_header: false
 ---
 
----
-layout: page
-title: Privacy Policy
-include_in_header: false
----
+**Terms & Conditions**
 
+By downloading or using the apps, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the apps. You’re not allowed to copy, or modify the apps, any part of the apps, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the apps, and you also shouldn’t try to translate the apps into other languages, or make derivative versions. The apps itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Abilo Development.
 
+Abilo Development is committed to ensuring that our apps is as useful and efficient as possible. For that reason, we reserve the right to make changes to the apps or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
+Our apps stores and processes personal data that you have provided to us, in order to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that our apps won’t work properly or at all.
 
-Privacy Policy
+Our apps does use third party services that declare their own Terms and Conditions.
 
-Abilo Development built the Apps as a Freemium apps. This APPS is provided by Abilo Development at no cost and is intended for use as is.
+Link to Terms and Conditions of third party service providers used by the apps
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Apps.
+*   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
+*   [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
+*   [Amplitude](https://amplitude.com/terms)
+*   [Appsflyer](https://www.appsflyer.com/legal/terms-of-use/)
 
-If you choose to use our Apps, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Apps. We will not use or share your information with anyone except as described in this Privacy Policy.
+You should be aware that there are certain things that Abilo Development will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Abilo Development cannot take responsibility for the apps not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at unless otherwise defined in this Privacy Policy.
+If you’re using our apps outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the apps, or other third party charges. In using our apps, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using our apps, please be aware that we assume that you have received permission from the bill payer for using our apps.
 
-Information Collection and Use
+Along the same lines, Abilo Development cannot always take responsibility for the way you use our apps i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Abilo Development cannot accept responsibility.
 
-For a better experience, while using our Apps, we may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+With respect to Abilo Development’s responsibility for your use of our apps, when you’re using our apps, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Abilo Development accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of our apps.
 
-The app does use third party services that may collect information used to identify you.
+At some point, we may wish to update our apps. Our apps is currently available on iOS – the requirements for system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using our apps. Abilo Development does not promise that it will always update their apps so that it is relevant to you and/or works with the iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
-Link to privacy policy of third party service providers used by the app
+**Changes to This Terms and Conditions**
 
-Google Analytics for Firebase
-Facebook
-Amplitude
-Log Data
+We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 
-We want to inform you that whenever you use our Apps, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Apps, the time and date of your use of the Apps, and other statistics.
-
-Cookies
-
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.
-
-This Apps does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Apps.
-
-Apps Providers
-
-We may employ third-party companies and individuals due to the following reasons:
-
-To facilitate our Apps;
-To provide the Apps on our behalf;
-To perform Apps-related services; or
-To assist us in analyzing how our Apps is used.
-We want to inform users of this Apps that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
-
-Security
-
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
-
-Links to Other Sites
-
-This site may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-Children’s Privacy
-
-These Appss do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
-
-Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2021-07-07
+These terms and conditions are effective as of 2021-07-07
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact us at abilodevelopment@gmail.com.
+abilodevelopment@gmail.com.
